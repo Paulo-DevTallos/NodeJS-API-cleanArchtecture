@@ -32,4 +32,10 @@ $ npx lint-staged
 # allows you to set hooks to set "pre-commit", running a script (lint-staged) before any commit to fix any code format
 # this lib enable any commit file with bad format
 $ npm install huks
+
+# ---------------------------------------------------------------------------------------------------------------------
+# installing jest for testing as development dependece
+$ npm install jest -D
+
+# is recomended create a jest.config.js to set your test environment jest --init
 ```

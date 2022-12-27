@@ -30,6 +30,7 @@
   "homepage": "https://github.com/Paulo-DevTallos/NodeJS-API-cleanArchtecture#readme",
   "devDependencies": {
     "husk": "^0.5.3",
+    "jest": "^29.3.1",
     "lint-staged": "^13.1.0",
     "standard": "^17.0.0"
   }
