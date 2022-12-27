@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-api-cleanarchtecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paulo-DevTallos/NodeJS-API-cleanArchtecture.git"
+  },
+  "keywords": [],
+  "author": "paulodevmais <paulo.sergio@tallos.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paulo-DevTallos/NodeJS-API-cleanArchtecture/issues"
+  },
+  "homepage": "https://github.com/Paulo-DevTallos/NodeJS-API-cleanArchtecture#readme"
+}
